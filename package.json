@@ -1,5 +1,5 @@
 {
-  "name": "getformdata",
+  "name": "@abgameur/getformdata",
   "license": "MIT",
   "version": "1.0.0",
   "description": "Get form data as JSON",
